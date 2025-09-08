@@ -30,6 +30,40 @@
 
 ###
 
+<p align="left">Projects</p>
+
+###
+
+<!-- Excel Projects -->
+<p align="left"><b>📊 Excel Projects</b></p>
+<ul align="left">
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/excel/sales-dashboard" target="_blank">Sales Dashboard</a></li>
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/excel/loan-analysis" target="_blank">Loan Repayment Analysis</a></li>
+</ul>
+
+<!-- SQL Projects -->
+<p align="left"><b>🗄️ SQL Projects</b></p>
+<ul align="left">
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/sql/customer-segmentation" target="_blank">Customer Segmentation</a></li>
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/sql/retail-sales" target="_blank">Retail Sales Analysis</a></li>
+</ul>
+
+<!-- Python Projects -->
+<p align="left"><b>🐍 Python Projects</b></p>
+<ul align="left">
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/python/data-cleaning" target="_blank">Data Cleaning Automation</a></li>
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/python/child-mortality" target="_blank">Child Mortality Data Analysis</a></li>
+</ul>
+
+<!-- Power BI Projects -->
+<p align="left"><b>📈 Power BI Projects</b></p>
+<ul align="left">
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/powerbi/financial-dashboard" target="_blank">Financial Performance Dashboard</a></li>
+  <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/powerbi/hr-analytics" target="_blank">HR Analytics Dashboard</a></li>
+</ul>
+
+###
+
 <p align="left">Contact Details</p>
 
 ###
