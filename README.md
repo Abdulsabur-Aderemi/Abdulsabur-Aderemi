@@ -19,6 +19,8 @@
   <img width="12" />
    <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" alt="Power BI logo"  />
   <img width="12" />
+   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" alt="Power BI logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="microsoftsqlserver logo"  />
@@ -36,7 +38,10 @@
 
 <!-- Excel Projects -->
 <details>
-  <summary><b>📊 Excel Projects</b></summary>
+  <summary>
+    <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo" />
+    <b> Excel</b>
+  </summary>
   <ul align="left">
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/excel/sales-dashboard" target="_blank">Sales Dashboard</a></li>
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/excel/loan-analysis" target="_blank">Loan Repayment Analysis</a></li>
@@ -45,7 +50,10 @@
 
 <!-- SQL Projects -->
 <details>
-  <summary><b>🗄️ SQL Projects</b></summary>
+  <summary>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="SQL logo" />
+    <b> SQL</b>
+  </summary>
   <ul align="left">
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/sql/customer-segmentation" target="_blank">Customer Segmentation</a></li>
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/sql/retail-sales" target="_blank">Retail Sales Analysis</a></li>
@@ -54,7 +62,10 @@
 
 <!-- Python Projects -->
 <details>
-  <summary><b>🐍 Python Projects</b></summary>
+  <summary>
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" alt="Python logo" />
+    <b> Python</b>
+  </summary>
   <ul align="left">
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/python/data-cleaning" target="_blank">Data Cleaning Automation</a></li>
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/python/child-mortality" target="_blank">Child Mortality Data Analysis</a></li>
@@ -63,7 +74,10 @@
 
 <!-- Power BI Projects -->
 <details>
-  <summary><b>📈 Power BI Projects</b></summary>
+  <summary>
+    <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" alt="Power BI logo" />
+    <b> Power BI</b>
+  </summary>
   <ul align="left">
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/powerbi/financial-dashboard" target="_blank">Financial Performance Dashboard</a></li>
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/powerbi/hr-analytics" target="_blank">HR Analytics Dashboard</a></li>
