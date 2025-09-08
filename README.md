@@ -43,10 +43,10 @@
     <b> Excel</b>
   </summary>
   <ul align="left">
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/excel/sales-dashboard" target="_blank">Sales Dashboard</a></li>
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/excel/loan-analysis" target="_blank">Loan Repayment Analysis</a></li>
+    <li><a href="projects/excel/superstore-sales-report">Superstore Sales Report</a></li>
   </ul>
 </details>
+
 
 <!-- SQL Projects -->
 <details>
