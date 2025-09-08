@@ -11,9 +11,9 @@
 ###
 
 <div align="left">
-   <img src="https://icons8.com/icon/UECmBSgBOvPT/microsoft-excel-2019" height="20" alt="Excel logo"  />
+   <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo"  />
   <img width="12" />
-   <img src="https://icons8.com/icon/Ny0t2MYrJ70p/power-bi-2021" height="20" alt="Power BI logo"  />
+   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="20" alt="Power BI logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
   <img width="12" />
@@ -30,10 +30,10 @@
 
 <div align="left">
   <a href="linkedin.com/in/abdulsabur-aderemi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
   </a>
   <a href="abdulsaburaderemi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
   </a>
 </div>
 
