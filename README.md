@@ -1,8 +1,12 @@
 <p align="left">Hi! I'm Abdulsabur</p>
 
+#
+
 ###
 
 <p align="left">Welcome to my GitHub!!<br><br>I am a Data Analyst with a background in mathematics and research, passionate about transforming raw data into clear, actionable insights.<br><br>Using tools like SQL, Power BI, and Excel, I design dashboards and analyses that help businesses improve decision-making and performance.<br><br>My teaching and mentoring experience also gives me the ability to break down complex concepts into simple, actionable recommendations.<br><br>📊 Core Tools: SQL | Excel | Power BI | <br>🎯 Focus Areas: Data visualization, reporting, process optimization<br>🌍 Goal: Support organizations in making smarter, data-driven decisions.</p>
+
+#
 
 ###
 
@@ -21,6 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="20" alt="anaconda logo"  />
 </div>
+
+#
 
 ###
 
