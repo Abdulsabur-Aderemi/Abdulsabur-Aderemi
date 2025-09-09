@@ -57,6 +57,7 @@
   </summary>
   <ul align="left">
     <li><a href="projects/sql/testing-database">Testing Database</a></li>
+    <li><a href="projects/sql/superstore-dataset">Superstore Dataset</a></li>
   </ul>
 </details>
 
