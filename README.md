@@ -68,7 +68,7 @@
     <b> Python</b>
   </summary>
   <ul align="left">
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/python/data-cleaning" target="_blank">Data Cleaning Automation</a></li>
+    <li><a href="projects/python/titanic-passengers-analysis">Titanic Passengers Survival Analysis</a></li>
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/python/child-mortality" target="_blank">Child Mortality Data Analysis</a></li>
   </ul>
 </details>
