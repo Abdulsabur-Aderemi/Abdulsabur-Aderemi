@@ -80,7 +80,7 @@
     <b> Power BI</b>
   </summary>
   <ul align="left">
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/powerbi/financial-dashboard" target="_blank">Financial Performance Dashboard</a></li>
+   <li><a href="projects/power bi/professional-trends">Professional Trends</a></li>
     <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/powerbi/hr-analytics" target="_blank">HR Analytics Dashboard</a></li>
   </ul>
 </details>
