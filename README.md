@@ -69,7 +69,7 @@
   </summary>
   <ul align="left">
     <li><a href="projects/python/titanic-passengers-analysis">Titanic Passengers Survival Analysis</a></li>
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/python/child-mortality" target="_blank">Child Mortality Data Analysis</a></li>
+   <li><a href="projects/python/911-calls-analysis">911 Calls Data Analysis</a></li>
   </ul>
 </details>
 
