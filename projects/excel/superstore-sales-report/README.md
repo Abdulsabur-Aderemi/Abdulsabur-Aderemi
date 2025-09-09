@@ -13,7 +13,8 @@ Regional contributions to total revenue
 
 Customer purchasing behavior
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]
+<img width="1432" height="584" alt="dashboard" src="https://github.com/user-attachments/assets/22d37784-9073-4560-b459-132e5797e8f0" />
 
 # 🔑 Key Insights
 🛒 Top 10 Products by Revenue → Showed products driving profitability.
