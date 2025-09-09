@@ -81,7 +81,7 @@
   </summary>
   <ul align="left">
    <li><a href="projects/power bi/professional-trends">Professional Trends</a></li>
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/powerbi/hr-analytics" target="_blank">HR Analytics Dashboard</a></li>
+       <li><a href="projects/power bi/hr-analytics">HR Analytics Dashboard</a></li>
   </ul>
 </details>
 
