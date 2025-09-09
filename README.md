@@ -56,8 +56,7 @@
     <b> SQL</b>
   </summary>
   <ul align="left">
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/sql/customer-segmentation" target="_blank">Customer Segmentation</a></li>
-    <li><a href="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/tree/main/projects/sql/retail-sales" target="_blank">Retail Sales Analysis</a></li>
+    <li><a href="projects/sql/testing-database">Testing Database</a></li>
   </ul>
 </details>
 
