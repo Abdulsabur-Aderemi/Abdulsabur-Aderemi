@@ -1,31 +1,29 @@
-# HR Analytics Report
-I built this HR Analytics Dashboard in Excel to sharpen my data cleaning, analysis, and visualization skills.
+# Superstore Sales Report
+This project presents an end-to-end data analysis of a fictional superstore's transactional data, with the goal of uncovering key business insights and visualizing them using a dynamic Excel dashboard. The analysis includes data cleaning, merging, exploration, and interactive dashboard creation.
 
-The dataset included employee details — age, gender, department, position, and salary — and my goal was to transform it into actionable insights.
+# 📌 Project Overview
+The dataset contains transactional sales data, including product categories, regions, customers, and order details.
+Using Excel, I cleaned, transformed, and analyzed the dataset to highlight:
 
-✨ What I did
+Sales performance over time
 
-Cleaned and standardized all data (handled blanks, formatted dates, trimmed text etc.)
+Profitability trends across categories
 
-Used Pivot Tables, charts, and slicers to make the dashboard interactive
+Regional contributions to total revenue
 
-Applied custom formatting and layout design for a clean professional look
+Customer purchasing behavior
 
-
-📊 Key Insights
-
-Average employee age: 36 years, with the oldest being 50
-
-Sales Department leads with the highest average salary ($61K)
-
-Directors earn the most across all positions
-
-Workforce mostly falls within the 35-year age group
-
-This project reminded me how powerful Excel can be for storytelling with data
-
-Dashboard Preview
+[Dashboard Preview]
 <img width="1432" height="584" alt="dashboard" src="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/blob/main/Superstore_Dashboard.png" />
+
+# 🔑 Key Insights
+🛒 Top 10 States by Sales → Showed states driving profitability.
+
+🌍 Regional Analysis → Highlighted top-performing regions and sales gaps.
+
+👥 Customer Segmentation → Classified customers by purchase volume.
+
+💰 Profitability Metrics → Compared revenue vs. profit margins.
 
 # ⚙️ Tools & Skills Used
 Microsoft Excel
