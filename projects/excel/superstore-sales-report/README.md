@@ -17,7 +17,7 @@ Customer purchasing behavior
 <img width="1432" height="584" alt="dashboard" src="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/blob/main/Superstore_Dashboard.png" />
 
 # 🔑 Key Insights
-🛒 Top 10 Products by Revenue → Showed products driving profitability.
+🛒 Top 10 States by Sales → Showed states driving profitability.
 
 🌍 Regional Analysis → Highlighted top-performing regions and sales gaps.
 
