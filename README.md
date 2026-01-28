@@ -43,9 +43,9 @@
     <b> Excel</b>
   </summary>
   <ul align="left">
+    <li><a href="projects/excel/HR-analytics-report">HR Analytics Report</a></li>
     <li><a href="projects/excel/superstore-sales-report">Superstore Sales Report</a></li>
     <li><a href="projects/excel/bike-sales-report">Bike Sales Report</a></li>
-    <li><a href="projects/excel/bike-sales-report">HR Analytics Report</a></li>
   </ul>
 </details>
 
