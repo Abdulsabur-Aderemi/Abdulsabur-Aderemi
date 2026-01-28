@@ -46,3 +46,5 @@ Open it in Microsoft Excel
 Navigate through the interactive dashboard and pivot tables
 
 # Dashboard Preview
+<img width="1432" height="584" alt="dashboard" src="https://github.com/Abdulsabur-Aderemi/Abdulsabur-Aderemi/blob/main/projects/excel/hr-analytics-report/HR%20Dashboard%20Preview.png" />
+
